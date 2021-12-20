@@ -7,4 +7,7 @@ Download the code file and the tests cases folder. Ensure the test cases file di
 The algorithm runs in O(n^3) and may take a while to finish running through all the files within the folder as sequence lengths increase. 
 Nussinov Algorithm merely provides a baseline for shorter sequences of simpler structure. 
 
+To run the code simply clone the directory and run 
+py final_nussinov.py
+
 The test files are sourced from http://bprna.cgrb.oregonstate.edu/about.php
